@@ -1,0 +1,2 @@
+Idea 缺少Version Control视图 解决办法
+View | Tool Windows | Version Control
